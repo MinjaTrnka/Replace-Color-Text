@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  font-size: 18px;
+  margin: 10px;
+}
+input {
+  width: 200px;
+}
+input:hover {
+  background-color: lightgrey;
+  color: black;
+}
+button:hover {
+  background-color: grey;
+}
